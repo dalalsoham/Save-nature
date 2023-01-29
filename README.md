@@ -28,7 +28,6 @@ Go to the project directory
 ![App Screenshot](https://i.postimg.cc/Y0cFcVfk/127-0-0-1-5500-index-html.png)
 
 
+<!-- ## Synapse 1.0 Ticket
 
-//## Synapse 1.0 Ticket
-
-//![Soham Dalal Synapse 1.0 ticket](https://i.postimg.cc/2659WJZz/Soham.png)
+![Soham Dalal Synapse 1.0 ticket](https://i.postimg.cc/2659WJZz/Soham.png)-->
