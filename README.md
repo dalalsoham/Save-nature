@@ -1,7 +1,7 @@
 
 ## Save Nature Website
 
-This is a nature related website only using HTML,CSS,JS & BOOTSTRAP. It is also device friendly.
+This is a nature related commercial website only using HTML,CSS,JS & BOOTSTRAP. It is also device friendly.
 ## Authors
 
 - [@dalalsoham](https://github.com/dalalsoham)
