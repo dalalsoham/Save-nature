@@ -1,5 +1,5 @@
 
-## Save Nature Website Design
+## Save Nature Website
 
 This is a nature related website only using HTML,CSS,JS & BOOTSTRAP. It is also device friendly.
 ## Authors
